@@ -12,9 +12,6 @@ Ransomware remains a persistent threat to cybersecurity, necessitating accurate 
 Ransomware samples were executed in a sandbox environment, and features such as API calls, file system activity, and registry modifications were extracted. Corresponding ATT\&CK annotations were also obtained. Our best-performing model achieves **Precision\@5 of 81.33%** and **nDCG\@5 of 91.59%**, successfully identifying core ransomware behaviours mapped to tactics such as *Defence Evasion* and *Impact*. Feature–technique analysis highlights registry access, mass file operations, and API misuse as key predictors. ATTAXML extends conventional detection by offering per-sample ATT\&CK profiles, supporting incident response and threat intelligence.
 
 ![system_design](https://github.com/user-attachments/assets/c1401a22-d064-461d-9222-647e23da043f)
-![system_design](https://github.com/user-attachments/assets/c1401a22-d064-461d-9222-647e23da043f)
-
-
 
 ## Repository Structure
 
